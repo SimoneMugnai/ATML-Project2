@@ -1,7 +1,7 @@
 # ATML-project2
 The assignment aims to apply the techniques you have learned in class to investigate one of the datasets described below, build either a chatbot or question-answering system with it, and then make the system voice interactive, by connecting it to speech-to-text and text-to-speech models.
 
-authors: SimoneMugnai; Jookare(Joona);TorrisiFilippo ;PremekJanda 
+Authors: SimoneMugnai; Jookare(Joona);TorrisiFilippo ;PremekJanda 
 
 [Link to assignment](https://drive.google.com/file/d/1S_UfmLWsszGQBZ6wpc83HbrjHO2Fa5xc/view).
 
